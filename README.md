@@ -1,4 +1,4 @@
-BlogPlus
-========
+BlogExtension
+=============
 
-This is an extension of the RainLab.Blog plugin for OctoberCMS. It add support for search, tags and subcategories 
+Blog Extension Feed extends and is therefore dependent on the RainLab Blog plugin.
